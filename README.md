@@ -78,6 +78,6 @@ Small projects to practice JS concepts.
 
 ##  Connect With Me
 
-*  GitHub: [https://github.com/YOUR_USERNAME](https://github.com/Shristisingh09)
-* Email: [your-email@example.com](mailto:shristisingh2402@gmail.com)
+*  GitHub: (https://github.com/Shristisingh09)
+* Email: (mailto:shristisingh2402@gmail.com)
 
